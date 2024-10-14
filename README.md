@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 
 
-<h1 align="center">👋 Olá! Eu sou o Luís Cláudio</h1>
+<h1 align="center">👋 Hello! I'm Luís Cláudio</h1>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/luis-claudio-32b76b23a/" target="_blank">
@@ -9,8 +9,8 @@
   </a>
 </div>
 
-## Sobre mim
-- :man_technologist: Meu nome é Luís Cláudio, estudo engenharia da computação, na Universidade do Estado de Minas Gerais, a 3 anos. Trabalho a 4 anos no setor calçadista, sendo hoje, líder de uma equipe de design e produção de chinelos. Busco migrar para minha área de estudo, visto que, me sinto preparado para tal desafio. Sou apaixonado por tecnologia, tenho alguns cursos extra curriculares acumulados, sendo o último, um intercâmbio para Los Angeles. Dedicação, proatividade, organização, liderança, comunicação, trabalho em equipe, são apenas algumas das características que acumulei durante o tempo. Espero contribuir muito para a empresa, bem como para a evolução do setor..
+## About me
+- :man_technologist: My name is Luís Cláudio. I have been studying Computer Engineering at the State University of Minas Gerais for three years. I have been working in the footwear industry for four years, currently leading a team in the design and production of sandals. I am looking to transition into my field of study, as I feel prepared for this challenge. I am passionate about technology and have accumulated several extracurricular courses, the most recent being an exchange program in Los Angeles. Dedication, proactivity, organization, leadership, communication, and teamwork are just some of the qualities I have developed over time. I hope to make significant contributions to the company as well as to the evolution of the industry.
 
 
 ##  🛠️ Tech Stack
