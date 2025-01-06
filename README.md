@@ -10,7 +10,7 @@
 </div>
 
 ## About me
-- :man_technologist: My name is Luís Cláudio. I have been studying Computer Engineering at the State University of Minas Gerais for three years. I have been working in the footwear industry for four years, currently leading a team in the design and production of sandals. I am looking to transition into my field of study, as I feel prepared for this challenge. I am passionate about technology and have accumulated several extracurricular courses, the most recent being an exchange program in Los Angeles. Dedication, proactivity, organization, leadership, communication, and teamwork are just some of the qualities I have developed over time. I hope to make significant contributions to the company as well as to the evolution of the industry.
+- :man_technologist: My name is Luís Cláudio. I have been studying Computer Engineering at the State University of Minas Gerais for three years. I have been working in the footwear industry for four years, currently leading a team in the design and production of sandals. I am looking to transition into my field of study, as I feel prepared for this challenge. I am passionate about technology and have accumulated several extracurricular courses, the most recent being an exchange program in Los Angeles. Dedication, proactivity, organization, leadership, communication, and teamwork are just some of the qualities I have developed over time.
 
 
 ##  🛠️ Tech Stack
